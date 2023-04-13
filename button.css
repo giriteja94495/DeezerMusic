@@ -1,0 +1,31 @@
+
+.searchStyle{
+  width: 500px;
+  height: 30px;
+  margin: 10px;
+  border: none;
+  border-radius: 2px;
+  outline: none;
+  background-color: #f1f1f1;
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.container {
+  margin: 1em;
+}
+
+img {
+  margin-bottom: 1em;
+}
+.card {
+  padding: 1rem;
+  border: 1px solid black;
+  margin: 1rem;
+}
+img{
+  border-radius: 10px solid gray;
+}
